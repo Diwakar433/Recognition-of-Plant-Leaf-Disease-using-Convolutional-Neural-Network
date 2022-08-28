@@ -6,4 +6,5 @@ Reuirements : We have conducted our experiment on Jupiter Notebook and Python (v
 Library : Main library used Tensorflow, keras, opencv, os and etc.
 
 Keyword: Plant Disease Detection, deep learning, convolutional neural networks,image processing.
+
 Database link : https://www.kaggle.com/datasets/vipoooool/new-plant-diseases-dataset
